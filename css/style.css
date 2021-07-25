@@ -373,9 +373,11 @@ nav .fas{
     letter-spacing: 3px;
 }
 .col-price{
-    width: 80%;
-   margin-bottom: 5%;
-    padding-top: 50px;
+     width: 80%;
+     flex-basis: 33%;
+     margin-bottom: 5%;
+     padding-top: 50px;
+     padding-left: 15px;
 }
 .package{
     width: 300px;
