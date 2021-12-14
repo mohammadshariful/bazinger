@@ -1,2 +1,2 @@
 # bazinger
- https://theshariful.github.io/bazinger/
+ https://mohammadshariful.github.io/bazinger/
